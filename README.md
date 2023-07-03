@@ -36,7 +36,6 @@ You can apply formatting to your text using Markdown syntax.
 
 You can create links and insert images in Markdown.
 
-- [OpenAI](https://www.openai.com) - This is a link to the OpenAI website.
 - ![Markdown Logo](https://markdown-here.com/img/icon256.png) - This is an image of the Markdown logo.
 
 ## Conclusion
